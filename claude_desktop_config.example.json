@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "chillmcp": {
+      "command": "python",
+      "args": [
+        "/Users/gyeong/Documents/ChillMCP/main.py",
+        "--server",
+        "--boss_alertness",
+        "50",
+        "--boss_alertness_cooldown",
+        "300"
+      ],
+      "env": {}
+    }
+  }
+}
